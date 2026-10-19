@@ -2,6 +2,15 @@
 
 Self-hosted chess: play Stockfish, play a friend online, review games with an engine.
 
+![Game against Stockfish](docs/game.png)
+
+<p align="center">
+  <img src="docs/landing.png" alt="Landing page" width="49%">
+  <img src="docs/multiplayer.png" alt="Multiplayer: open room or invite a friend" width="49%">
+</p>
+
+![Player profile with rating and stats](docs/profile.png)
+
 ## Run locally (Python)
 
 ```bash
